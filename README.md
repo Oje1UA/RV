@@ -9,7 +9,7 @@ Trabajo Realizado
 ------------------------------------------------------
 Se ha desarrollado un pequeno entorno donde deberas sobrevivir a la amenaza de unos invasores del futuro disparandoles tus hechizos. 
 
-Cuanto mas pase el tiempo, mas invasores vendran. Matando invasores, por otro lado, consigues experiencia, aunque su uso es meramente de puntuacion para hacerlo mas divertido y rejugable. Los invasores seran capaces de danarte, si tu vida llega a 0 la partida se reinicia.
+Cuanto mas pase el tiempo, mas invasores vendran. Matando invasores, por otro lado, consigues experiencia, aunque su uso es meramente de puntuacion para hacerlo mas divertido y rejugable. Los invasores seran capaces de quitarte vida, si esta llega a 0 la partida se reinicia.
 
 El proyecto es compatible tanto para dispositivos Meta como para Windows. Al iniciar la aplicacion detecta si tienes unos cascos conectados, si los tienes al jugar crea el Pawn de VR y si no, el de Windows.
 
@@ -40,7 +40,7 @@ Al disparar a un invasor, este morira y te dara algo de experiencia que te podri
 
 Licencias
 ------------------------------------------------------
-Para la realicacion de este trabajo, se ha usado varios assets externos recogidos desde la marketplace y sonidos descargados de FreeSound, todos con licencia libre de uso:
+Para la realicacion de este trabajo, se ha usado varios assets externos recogidos desde la marketplace y sonidos descargados de FreeSound, todos con licencia libre de uso validas para proyectos de Unreal:
 
 Marketplace:
   - Sci_Fi_Character_08: Modelo riggeado de los invasores del futuro.
