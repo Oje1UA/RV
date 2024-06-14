@@ -40,7 +40,7 @@ Al disparar a un invasor, este morira y te dara algo de experiencia que te podri
 
 Licencias
 ------------------------------------------------------
-Para la realicacion de este trabajo, se ha usado varios assets externos recogidos desde la marketplace y sonidos descargados de FreeSound:
+Para la realicacion de este trabajo, se ha usado varios assets externos recogidos desde la marketplace y sonidos descargados de FreeSound, todos con licencia libre de uso:
 
 Marketplace:
   - Sci_Fi_Character_08: Modelo riggeado de los invasores del futuro.
