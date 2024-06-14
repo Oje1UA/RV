@@ -1,11 +1,5 @@
 # RV
 
-/Config
-/Content
-/Plugis
-/Source
-* Uproject
-
 Entrega de la asignatura de Realidad Virtual |
 Oscar Jaramillo Espinosa |
 14/06/2024
@@ -17,7 +11,13 @@ Se ha desarrollado un pequeno entorno donde deberas sobrevivir a la amenaza de u
 
 Cuanto mas pase el tiempo, mas invasores vendran. Matando invasores, por otro lado, consigues experiencia, aunque su uso es meramente de puntuacion para hacerlo mas divertido y rejugable. Los invasores seran capaces de danarte, si tu vida llega a 0 la partida se reinicia.
 
-El proyecto es compatible tanto para dispositivos Meta como para Windows.
+El proyecto es compatible tanto para dispositivos Meta como para Windows. Al iniciar la aplicacion detecta si tienes unos cascos conectados, si los tienes al jugar crea el Pawn de VR y si no, el de Windows.
+
+Se ha hecho, ademas, un par de videos demo del proyecto. Estan divididos en dos, la version de Windows y la version de Meta. Link a los videos:
+https://drive.google.com/drive/folders/13jpoacFs6SKiuwifcy2qDgj1xVhYDNTr?usp=sharing
+
+El Package del proyecto se puede encontrar en el siguiente enlace:
+https://drive.google.com/drive/folders/1MQAvdq5DriPzOeDSug5fGci9fX_GqZ-G?usp=sharing
 
 
 Controles
